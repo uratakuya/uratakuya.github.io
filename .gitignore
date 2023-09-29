@@ -2,3 +2,6 @@
 .DS_Store
 *.log
 *.gz
+*.log
+*.pdf
+*.gz
