@@ -13,3 +13,5 @@ CV.synctex.gz
 *.out
 *.log
 *.gz
+CV.fdb_latexmk
+CV.fls
